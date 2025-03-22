@@ -21,15 +21,15 @@ This project predicts whether Titanic passengers survived or not based on featur
 ```bash
 git clone https://github.com/marshall-gerard/titanic-survival-pytorch.git
 cd titanic-survival-pytorch
-
+```
 2. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 3. Run the pipeline
 ```bash
 python main.py
-
+```
 ---
 
 ## Author & Contact
