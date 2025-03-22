@@ -1,4 +1,4 @@
-# Titanic Survival PyTorch
+# Titanic Survival Prediction PyTorch
 
 Clean and understandable machine learning pipeline to predict passenger survival on the Titanic using PyTorch, with feature engineering and modular code design.
 
