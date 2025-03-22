@@ -23,11 +23,11 @@ git clone https://github.com/marshall-gerard/titanic-survival-pytorch.git
 cd titanic-survival-pytorch
 
 2. Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
 
 3. Run the pipeline
-'''bash
+```bash
 python main.py
 
 ---
